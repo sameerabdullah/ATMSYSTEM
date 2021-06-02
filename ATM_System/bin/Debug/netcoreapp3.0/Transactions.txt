@@ -1,0 +1,5 @@
+1,2,Muhammad Naveed,500,10/30/2020 12:00:00 AM,Cash Withdrawal
+1,2,Muhammad Naveed,1000,10/30/2020 12:00:00 AM,Cash Withdrawal
+1,2,Muhammad Naveed,500,10/30/2020 12:00:00 AM,Cash Transfer
+2,3,Muhammad Hamza,2000,10/30/2020 12:00:00 AM,Cash Deposit
+1,2,Muhammad Naveed,500,10/30/2020 12:00:00 AM,Cash Deposit

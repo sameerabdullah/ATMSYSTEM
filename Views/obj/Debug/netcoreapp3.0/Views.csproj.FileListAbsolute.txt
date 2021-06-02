@@ -1,0 +1,15 @@
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\Views.deps.json
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\Views.dll
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\Views.pdb
+C:\Users\Adeel\source\repos\ATM_System\Views\obj\Debug\netcoreapp3.0\Views.csprojAssemblyReference.cache
+C:\Users\Adeel\source\repos\ATM_System\Views\obj\Debug\netcoreapp3.0\Views.AssemblyInfoInputs.cache
+C:\Users\Adeel\source\repos\ATM_System\Views\obj\Debug\netcoreapp3.0\Views.AssemblyInfo.cs
+C:\Users\Adeel\source\repos\ATM_System\Views\obj\Debug\netcoreapp3.0\Views.dll
+C:\Users\Adeel\source\repos\ATM_System\Views\obj\Debug\netcoreapp3.0\Views.pdb
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Adeel\source\repos\ATM_System\Views\obj\Debug\netcoreapp3.0\Views.csproj.CopyComplete
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\Models.dll
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\Adeel\source\repos\ATM_System\Views\bin\Debug\netcoreapp3.0\Models.pdb

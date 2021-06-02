@@ -1,0 +1,4 @@
+1,Muhammad Adeel,Zwvvo,00000,Admin
+2,Muhammad Naveed,Mzevvw,88888,Customer
+3,Muhammad Hamza,Sznaz,77777,Customer
+4,Muhammad Tayyab,Gzbbzy,17966,Customer

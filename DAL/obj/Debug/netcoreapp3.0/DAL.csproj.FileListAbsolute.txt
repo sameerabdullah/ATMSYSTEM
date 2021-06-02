@@ -1,0 +1,11 @@
+C:\Users\Adeel\source\repos\ATM_System\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\Adeel\source\repos\ATM_System\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\Adeel\source\repos\ATM_System\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\Adeel\source\repos\ATM_System\DAL\bin\Debug\netcoreapp3.0\Models.dll
+C:\Users\Adeel\source\repos\ATM_System\DAL\bin\Debug\netcoreapp3.0\Models.pdb
+C:\Users\Adeel\source\repos\ATM_System\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\Adeel\source\repos\ATM_System\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Adeel\source\repos\ATM_System\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\Adeel\source\repos\ATM_System\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CopyComplete
+C:\Users\Adeel\source\repos\ATM_System\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\Adeel\source\repos\ATM_System\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
